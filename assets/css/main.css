@@ -3944,10 +3944,6 @@ input, select, textarea {
 	margin: .5em;
 }
 
-.headerIcons {
-	
-}
-
 .profileImgWrapper {
 	
 	padding: 5px;
@@ -4020,7 +4016,7 @@ nav {
  	-webkit-animation-name: animatetop; 
 	-webkit-animation-duration: 0.4s;
 	animation-name: animatetop;
-	animation-duration: 0.4s; */
+	animation-duration: 0.4s;
 }
 
 .modal-content span{
